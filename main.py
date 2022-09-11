@@ -14,6 +14,8 @@ print("hello,master git2")
 
 
 print("hello hot-fix git1")
+
+print("pull test1")
 222222
 333333
 444444
