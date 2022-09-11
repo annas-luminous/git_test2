@@ -10,6 +10,7 @@ def print_hi(name):
 
 
 print("hello,git1")
+print("hello,master git2")
 
 222222
 333333
